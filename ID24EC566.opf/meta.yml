@@ -1,0 +1,34 @@
+id: ID24EC566
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:07:04.852103'
+last_modified: '2022-05-27T19:07:04.852115'
+parser: null
+source_metadata:
+  title: 'MSV 6,10: Mātṛkā'
+  language: bo
+  base:
+    fE22D:
+      title: CI_First division explanations
+      base_file: fE22D.txt
+      order: 1
+    f8FDB:
+      title: CII_Second division explanations
+      base_file: f8FDB.txt
+      order: 2
+    f1492:
+      title: CIII_Third division explanations
+      base_file: f1492.txt
+      order: 3
+  chapter_to_tile:
+    CI: Mātṛkā First division list
+    CII: Mātṛkā First division list Second division list
+    CIII: Mātṛkā First division list Second division list Third division list
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
